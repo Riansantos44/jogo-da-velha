@@ -1,0 +1,18 @@
+body{
+    background: url(https://img.freepik.com/vetores-gratis/fundo-de-onda-branca-suave_52683-55288.jpg?w=900&t=st=1710357435~exp=1710358035~hmac=45743555e11b9b72f2307eab939284e337f07936c7ffb9b251a74366d6943850);
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    background: url(https://img.freepik.com/fotos-gratis/mulher-jovem-e-bonita-magro-fazendo-exercicios-de-alongamento-na-academia-contra-o-branco_155003-17254.jpg?w=900&t=st=1710358097~exp=1710358697~hmac=6fcc53292d1186905dc10708a814eb6d6faec9a6d11c88da38806e7c9173da42);
+
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+
+}
